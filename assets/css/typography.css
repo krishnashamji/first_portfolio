@@ -1,0 +1,350 @@
+
+/* ---------- AVENIR ---------- */
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltproblack-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltproblack-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltproblackoblique-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltproblackoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltprobook-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltprobook-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltprobookoblique-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltprobookoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltproheavy-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltproheavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltproheavyoblique-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltproheavyoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltprolight-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltprolight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltprolightoblique-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltprolightoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltpromedium-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltpromedium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltpromediumoblique-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltpromediumoblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltprooblique-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltprooblique-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'avenir';
+    src: url('../assets/fonts/Avenir/avenirltproroman-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Avenir/avenirltproroman-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+/* ---------- BRANDON ---------- */
+
+
+
+
+@font-face {
+    font-family: 'brandon_grotesque';
+    src: url('../assets/fonts/Brandon Grotesque/brandon-grotesque-black-58a8a3e824392-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Brandon Grotesque/brandon-grotesque-black-58a8a3e824392-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'brandon_grotesque';
+    src: url('../assets/fonts/Brandon Grotesque/brandon-grotesque-bold-italic-58a8a48221563-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Brandon Grotesque/brandon-grotesque-bold-italic-58a8a48221563-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'brandon_grotesque';
+    src: url('../assets/fonts/Brandon Grotesque/brandon-grotesque-light-58a8a4b38001d-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Brandon Grotesque/brandon-grotesque-light-58a8a4b38001d-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'brandon_grotesque';
+    src: url('../assets/fonts/Brandon Grotesque/brandon-grotesque-light-italic-58a8a4ccb88be-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Brandon Grotesque/brandon-grotesque-light-italic-58a8a4ccb88be-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'brandon_grotesque';
+    src: url('../assets/fonts/Brandon Grotesque/brandon-grotesque-medium-italic-58a8a3c40866a-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Brandon Grotesque/brandon-grotesque-medium-italic-58a8a3c40866a-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'brandon_grotesque';
+    src: url('../assets/fonts/Brandon Grotesque/brandon-grotesque-regular-italic-58a8a456c4724-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Brandon Grotesque/brandon-grotesque-regular-italic-58a8a456c4724-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'brandon_grotesque';
+    src: url('../assets/fonts/Brandon Grotesque/brandon-grotesque-thin-italic-58a8a3a8861fe-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Brandon Grotesque/brandon-grotesque-thin-italic-58a8a3a8861fe-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+/* ---------- VOLLKRON ---------- */
+
+
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-BlackItalic.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-Bold.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-BoldItalic.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-ExtraBold.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkronk';
+    src: url('../assets/fonts/Vollkron/Vollkorn-Black.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-Medium.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-Italic.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-ExtraBoldItalic.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-SemiBoldItalic.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-SemiBold.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-Regular.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'vollkron';
+    src: url('../assets/fonts/Vollkron/Vollkorn-MediumItalic.woff2') format('woff2'),
+        url('../assets/fonts/Vollkron/Vollkorn-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+

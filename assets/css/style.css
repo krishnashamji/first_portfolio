@@ -1,0 +1,295 @@
+/* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain) */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+/* ---------- WORKSPACE ---------- */
+
+
+
+
+html, body {
+    background-color: #FFFFFF;
+    color: #414141;
+}
+
+
+h1, h2 {
+    font-family: 'avenir';
+    font-weight: bold;
+    font-size: 60px;
+}
+
+h3 {
+    font-family: 'avenir';
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.portfolio-date {
+    font-family: 'avenir';
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.breaker-1 {
+    border: 1px solid #414141;
+}
+
+.name {
+    font-family: 'avenir';
+    font-weight: light;
+    font-size: 29px;
+}
+
+.role {
+    font-family: 'vollkron';
+    font-weight: normal;
+    font-size: 18px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+
+/* ---------- NAVIGATION ---------- */
+
+header {
+    margin: 100px 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.portfolio-logo {
+    width: 169px;
+}
+
+.dropdown-button {
+    font-family: 'avenir';
+    font-size: 18px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-family: 'avenir';
+    font-size: 18px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #FFFFFF;
+    z-index: 1;
+    border-bottom: 1px solid #414141;
+  }
+
+.dropdown-content a {
+    color: black;
+    padding: 8px 0px;
+    text-decoration: none;
+    display: block;
+  }
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    text-decoration: underline;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+
+
+
+
+
+.about-me-write-up, .case-study-description p {
+    font-family: 'brandon_grotesque';
+    font-weight: normal;
+    font-size: 20px;
+}
+
+main {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+article {
+    margin: auto 200px;
+    width: 50%;
+}
+
+.bio{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+
+
+
+.about {
+    display: flex;
+}
+
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'avenir';
+    font-size: 14px;
+    width: 20%;
+}
+
+.cv-button{
+    color: #238689;
+    background: none;
+    border: none;
+    text-align: left;
+    text-decoration: underline;
+    font-family: 'avenir';
+    font-size: 20px;
+
+}
+
+.breaker-2 {
+    border: .5px solid #D6D6D4;
+    margin: 0px 20px;
+}
+
+.about-me-write-up {
+    width: 80%;
+    font-family: 'avenir';
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.about img {
+    width: 100%;
+}
+
+.skills-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 387px;
+    justify-content: space-between;
+    text-align: right;
+}
+
+
+
+
+
+.case-studies {
+    margin: 100px 200px;
+}
+
+.case-study-item {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    align-items: center;
+    margin: 50px 0px;
+}
+
+.case-study-description {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 50%;
+}
+
+.case-study-description p {
+    font-family: 'avenir';
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.case-study-image {
+    width: 50%;
+}
+
+
+/* ---------- FOOTER ---------- */
+
+footer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 100px 200px;
+    font-family: 'avenir';
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.breaker-3 {
+    border: .5px solid #D6D6D4;
+}
+
+.footer-items{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footer-logos {
+    display: flex;
+    gap: 12px;
+    
+}
+
+.footer-logos img {
+    width: 40px;
+    height: 40px;
+}
